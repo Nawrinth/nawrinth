@@ -44,7 +44,7 @@ I'm a passionate **Asipring Machine Learning Engineer**, a dedicated **full‑st
 
 ## 📫 How to Reach Me
 
-* Portfolio: *[nawrinth-portfolio.vercel.app](nawrinth-portfolio.vercel.app)*
+* Portfolio: *[nawrinth-portfolio.vercel.app](https://nawrinth-portfolio.vercel.app)*
 
 ## ⚡ Fun Fact
 
