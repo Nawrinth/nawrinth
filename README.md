@@ -44,8 +44,7 @@ I'm a passionate **Asipring Machine Learning Engineer**, a dedicated **full‑st
 
 ## 📫 How to Reach Me
 
-* Email: *[your-email@example.com](mailto:your-email@example.com)*
-* LinkedIn: *your-linkedin*
+* Portfolio: *[nawrinth-portfolio.vercel.app](nawrinth-portfolio.vercel.app)*
 
 ## ⚡ Fun Fact
 
