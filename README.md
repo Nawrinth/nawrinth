@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Asipring Machine Learning Engineer**, a dedicated **full‑stack developer**, and a tech enthusiast who loves building real‑world applications.
+I'm a passionate **Aspiring Machine Learning Engineer**, a dedicated **full‑stack developer**, and a tech enthusiast who loves building real‑world applications.
 
 ## 💡 What I Do
 
@@ -21,11 +21,8 @@ I'm a passionate **Asipring Machine Learning Engineer**, a dedicated **full‑st
 ## 🛠 Tech Stack
 
 **Languages:** Python, Java, C, C++, JavaScript
-
 **Frameworks & Libraries:** React, React Native, Express, Node.js, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn
-
 **Databases:** MySQL, MongoDB, Firebase
-
 **Tools:** Git, Docker, Linux (Arch), Kaggle API
 
 ## 📈 Projects I'm Proud Of
@@ -42,9 +39,12 @@ I'm a passionate **Asipring Machine Learning Engineer**, a dedicated **full‑st
 * Working on **HSI classification (Pavia University dataset)**
 * Mastering **neural networks and ML deployment**
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-* Portfolio: *[nawrinth-portfolio.vercel.app](https://nawrinth-portfolio.vercel.app)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-nawrinth--portfolio.vercel.app-blue?style=for-the-badge\&logo=appveyor)](https://nawrinth-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawrinth-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nawrinth-selvakumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nawrinth-black?style=for-the-badge\&logo=github)](https://github.com/nawrinth)
+[![Twitter](https://img.shields.io/badge/Twitter-@Nawrinth-blue?style=for-the-badge\&logo=twitter)](https://twitter.com/Nawrinth)
 
 ## ⚡ Fun Fact
 
@@ -52,4 +52,11 @@ I love experimenting with ML models and customizing Linux setups (especially on 
 
 ---
 
-Feel free to check out my repositories and connect with me!
+## 💫 GitHub Stats
+
+![Nawrinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawrinth\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawrinth\&layout=compact\&theme=radical)
+
+---
+
+Feel free to check out my repositories and connect with me! ✨
