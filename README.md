@@ -1,63 +1,134 @@
-# Hi there, I'm Nawrinth Selvakumar 👋
+# 👋 Hi there, I'm **Nawrinth Selvakumar**
 
-## 🚀 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Machine+Learning+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-I'm a passionate **Aspiring Machine Learning Engineer**, a dedicated **full‑stack developer**, and a tech enthusiast who loves building real‑world applications.
+## 🚀 About Me
 
-## 💡 What I Do
+```bash
+> whoami
+Nawrinth — Aspiring ML Engineer & Full-Stack Developer
 
-* 🤖 Exploring **Deep Learning, CNNs, Transfer Learning**, and **HSI image classification**
-* 💻 Building projects using **MERN, React Native, Express, Flask, TensorFlow, and PyTorch**
-* 🧪 Skilled in **Python, Java, C, C++, MySQL**, and modern frontend technologies
-* 📊 Working on **data visualization, ML pipelines, and automated model deployment**
-* 🌐 Creating **full-stack web applications and interactive dashboards**
-
-## 🎯 Current Learning Journey
-
-* Deep learning (CNNs, RNNs, attention mechanisms)
-* NLP and Retrieval‑Augmented Generation (RAG)
-* Advanced ML algorithms and optimization techniques
-
-## 🛠 Tech Stack
-
-**Languages:** Python, Java, C, C++, JavaScript
-**Frameworks & Libraries:** React, React Native, Express, Node.js, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn
-**Databases:** MySQL, MongoDB, Firebase
-**Tools:** Git, Docker, Linux (Arch), Kaggle API
-
-## 📈 Projects I'm Proud Of
-
-* 🧠 **Brain Tumor Detection Model (U‑Net + Attention)**
-* 📊 **MRI Classification Backend with Python + Express Integration**
-* 📂 **Resource Allocation Graph Simulator (Python + Tkinter)**
-* 🤖 **ARAM AI**
-* 😷 **Face Mask Detection**
-
-## 📚 I’m Currently Working On
-
-* Building a **mobile RAG‑based study material app**
-* Working on **HSI classification (Pavia University dataset)**
-* Mastering **neural networks and ML deployment**
-
-## 📫 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-nawrinth--portfolio.vercel.app-blue?style=for-the-badge\&logo=appveyor)](https://nawrinth-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawrinth-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nawrinth/)
-[![GitHub](https://img.shields.io/badge/GitHub-Nawrinth-black?style=for-the-badge\&logo=github)](https://github.com/nawrinth)
-[![Twitter](https://img.shields.io/badge/Twitter-@Nawrinth-blue?style=for-the-badge\&logo=twitter)](https://twitter.com/Nawrinth)
-
-## ⚡ Fun Fact
-
-I love experimenting with ML models and customizing Linux setups (especially on Arch 😄).
+> passion --areas
+"Deep Learning", "CNNs", "RAG Systems", "HSI Image Classification"
+```
 
 ---
 
-## 💫 GitHub Stats
+## 🧠 Skills (as a Python Class)
+
+```python
+class Nawrinth:
+    def __init__(self):
+        self.languages = ["Python", "Java", "C", "C++", "JavaScript"]
+        self.frameworks = ["React", "React Native", "Node.js", "Express", "TensorFlow", "PyTorch"]
+        self.databases = ["MySQL", "MongoDB", "Firebase"]
+        self.tools = ["Git", "Docker", "Linux (Arch)", "Kaggle API"]
+
+    def learning_now(self):
+        return [
+            "Attention-based CNN models",
+            "HSI Image Classification",
+            "RAG + Mobile Development",
+        ]
+
+me = Nawrinth()
+print(me.learning_now())
+```
+
+---
+
+## 📚 Learning Journey (Flowchart)
+
+```
+      ┌──────────────┐
+      │ Machine       │
+      │ Learning      │
+      └──────┬───────┘
+             │
+             ▼
+   ┌───────────────────┐
+   │ Deep Learning     │
+   │ (CNNs, RNNs)      │
+   └──────┬────────────┘
+          │
+          ▼
+ ┌────────────────────────┐
+ │ Model Training &       │
+ │ Optimization           │
+ └─────────┬──────────────┘
+           │
+           ▼
+  ┌────────────────────────┐
+  │ Deployment with Flask, │
+  │ Docker, CI/CD          │
+  └────────────────────────┘
+```
+
+---
+
+## 🏗 Projects (as JSON)
+
+```json
+{
+  "projects": {
+    "ARAM AI": "A RAG-powered intelligent mobile study assistant",
+    "Face Mask Detection": "Live detection using CNN + OpenCV",
+    "Brain Tumor Segmentation": "UNet + Attention Mechanism",
+    "HSI Classification": "Pavia University dataset ML pipeline"
+  }
+}
+```
+
+---
+
+## 🔧 Tech Stack
+
+```yaml
+languages:
+  - Python
+  - Java
+  - C
+  - C++
+  - JavaScript
+
+frameworks_and_libs:
+  - React
+  - React Native
+  - Node.js
+  - Express
+  - TensorFlow
+  - PyTorch
+  - NumPy
+  - Pandas
+
+databases:
+  - MySQL
+  - MongoDB
+  - Firebase
+
+tools:
+  - Docker
+  - Git
+  - Arch Linux
+  - Kaggle API
+```
+
+---
+
+## 📈 GitHub Stats
 
 ![Nawrinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawrinth\&show_icons=true\&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawrinth\&layout=compact\&theme=radical)
 
 ---
 
-Feel free to check out my repositories and connect with me! ✨
+## 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nawrinth--portfolio.vercel.app-blue?style=for-the-badge)](https://nawrinth-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawrinth-blue?style=for-the-badge)](https://www.linkedin.com/in/nawrinth/)
+[![GitHub](https://img.shields.io/badge/GitHub-nawrinth-black?style=for-the-badge)](https://github.com/nawrinth)
+[![Twitter](https://img.shields.io/badge/Twitter-@Nawrinth-blue?style=for-the-badge)](https://twitter.com/Nawrinth)
+
+---
+
+✨ _Thanks for visiting — feel free to explore my reposit
