@@ -1,7 +1,7 @@
 # Hi there, I'm Nawrinth Selvakumar 👋
 
 ## 🚀 About Me
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Machine+Learning+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 I'm a passionate **Aspiring Machine Learning Engineer**, a dedicated **full‑stack developer**, and a tech enthusiast who loves building real‑world applications.
 
 ## 💡 What I Do
