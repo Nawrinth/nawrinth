@@ -6,11 +6,11 @@ I'm a passionate **Aspiring Machine Learning Engineer**, a dedicated **full‑st
 
 ## 💡 What I Do
 
-* 🔭 Currently working on **AI-based Brain Tumor Detection using U‑Net with Attention Mechanism**
 * 🤖 Exploring **Deep Learning, CNNs, Transfer Learning**, and **HSI image classification**
 * 💻 Building projects using **MERN, React Native, Express, Flask, TensorFlow, and PyTorch**
 * 🧪 Skilled in **Python, Java, C, C++, MySQL**, and modern frontend technologies
-* 📱 Built apps like a **To‑Do App (React Native + Firebase)** and a **Recipe Meal Planner Website**
+* 📊 Working on **data visualization, ML pipelines, and automated model deployment**
+* 🌐 Creating **full-stack web applications and interactive dashboards**
 
 ## 🎯 Current Learning Journey
 
@@ -30,8 +30,8 @@ I'm a passionate **Aspiring Machine Learning Engineer**, a dedicated **full‑st
 * 🧠 **Brain Tumor Detection Model (U‑Net + Attention)**
 * 📊 **MRI Classification Backend with Python + Express Integration**
 * 📂 **Resource Allocation Graph Simulator (Python + Tkinter)**
-* 🍽 **Meal Planner Website**
-* 📱 **React Native To‑Do App with Firebase**
+* 🤖 **ARAM AI**
+* 😷 **Face Mask Detection**
 
 ## 📚 I’m Currently Working On
 
@@ -42,7 +42,7 @@ I'm a passionate **Aspiring Machine Learning Engineer**, a dedicated **full‑st
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nawrinth--portfolio.vercel.app-blue?style=for-the-badge\&logo=appveyor)](https://nawrinth-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawrinth-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nawrinth-selvakumar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawrinth-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nawrinth/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nawrinth-black?style=for-the-badge\&logo=github)](https://github.com/nawrinth)
 [![Twitter](https://img.shields.io/badge/Twitter-@Nawrinth-blue?style=for-the-badge\&logo=twitter)](https://twitter.com/Nawrinth)
 
